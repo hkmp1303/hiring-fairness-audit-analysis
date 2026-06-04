@@ -93,7 +93,7 @@ To reproduce the analysis:
 hiring-fairness-audit-analysis/
 ├── data/
 │   └── ai_hiring_audit_dataset.csv
-├── notebook.ipynb          # Main analysis
+├── hiring-fairness-audit-analysis.ipynb          # Main analysis
 ├── README.md
 └── .gitignore
 ```
