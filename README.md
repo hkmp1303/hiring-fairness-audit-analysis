@@ -119,3 +119,6 @@ hiring-fairness-audit-analysis/
 Code in this repository is licensed under the GPL License.
 
 The dataset used in this project belongs to its original author on Kaggle and is subject to separate licensing and usage terms.
+
+## Author
+Heather Payne
