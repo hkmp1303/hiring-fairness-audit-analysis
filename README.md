@@ -78,7 +78,7 @@ To reproduce the analysis:
 1. Download the dataset from the original Kaggle source
 2. Place the CSV file in the `/data` directory as `ai_hiring_audit_dataset.csv`
 3. Install dependencies: `pip install -r requirements.txt`
-4. Run the analysis notebook: `jupyter notebook hiring-fairness-audit-analysis.ipynb`
+4. Run the analysis notebook: `jupyter notebook notebook.ipynb`
 
 ## Key Findings
 
@@ -93,7 +93,7 @@ To reproduce the analysis:
 hiring-fairness-audit-analysis/
 ├── data/
 │   └── ai_hiring_audit_dataset.csv
-├── hiring-fairness-audit-analysis.ipynb          # Main analysis
+├── notebook.ipynb          # Main analysis
 ├── README.md
 └── .gitignore
 ```
