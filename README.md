@@ -100,11 +100,20 @@ hiring-fairness-audit-analysis/
 
 ## Limitations and Ethical Notes
 
-This dataset may contain synthetic or simulated recruitment scenarios
-and should not be interpreted as evidence of real-world employer behavior.
+**Data Limitations:**
+- This dataset contains **simulated recruitment scenarios**, not real hiring data. All findings describe the synthetic data generator's behavior, not actual AI hiring systems or employer practices.
+- The dataset **lacks protected attributes** (gender, ethnicity, age). Making bias audits along those dimensions is not possible. Age can only be indirectly inferred from years of experience.
+- The data generation process, sampling assumptions, and labeling methodology are **not documented** by the original author and cannot be verified from the CSV alone.
 
-Results from this analysis should be understood as exploratory rather
-than definitive proof of algorithmic discrimination.
+**Analytical Limitations:**
+- The analysis cannot explain **why** the AI rater systematically scores lower—whether this reflects deliberate calibration, threshold choices, or artifacts of the synthetic generator.
+- While the 91% decision agreement rate is measured, the **9% disagreement subset** is not examined in detail.
+- Score divergence patterns do not necessarily translate to hiring outcome disparities.
+
+**Ethical Boundaries:**
+- Results should be understood as **exploratory** rather than definitive proof of algorithmic discrimination.
+- Findings **do not transfer** to real-world recruitment systems.
+- This analysis is for **educational purposes** only—demonstrating data cleaning, statistical reasoning, and principled visualization techniques.
 
 ## License
 Code in this repository is licensed under the GPL License.
