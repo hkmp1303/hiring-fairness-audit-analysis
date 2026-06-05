@@ -48,7 +48,7 @@ AI-Assisted Hiring Fairness and Bias Audit Dataset
 **Author:** Aulqarnain Haider @Zulqarnain11 (Kaggle)
 
 **Source link:**
-[kaggle.com/datasets/zulqarnain11/ai-assisted-hiring-fairness-and-bias-audit-dataset](https://www.kaggle.com/datasets/zulqarnain11/ai-assisted-hiring-fairness-and-bias-audit-dataset)
+[https://www.kaggle.com/datasets/zulqarnain11/zzzzzzzzzzzzzzzz](https://www.kaggle.com/datasets/zulqarnain11/zzzzzzzzzzzzzzzz)
 
 The dataset is owned by the original author and is used in accordance with Kaggle’s terms and any applicable licensing conditions.
 
