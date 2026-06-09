@@ -62,7 +62,6 @@ The dataset contains approximately:
 - hiring decisions
 
 Primary variables include:
-- gender
 - education
 - years of experience
 - AI suitability score
